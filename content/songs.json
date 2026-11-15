@@ -1,0 +1,1847 @@
+[
+  {
+    "id": "duo",
+    "title": "朵",
+    "artist": "赵雷",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "G",
+      "Am",
+      "F"
+    ],
+    "youtube": "HAQx9joS3FY",
+    "listenLabel": "太合音乐 · 2024 巡演现场",
+    "scoreUrl": "https://www.jitapai.com/202659166.html",
+    "originalScoreUrl": "https://www.jitapai.com/202659166.html",
+    "meter": "4/4",
+    "focus": "少弹一点，让叙述走在前面",
+    "analysis": {
+      "listen": "先把注意力交给人声进入和句尾停顿。比较主歌与后面段落的伴奏密度：故事往前走的时候，情绪不一定靠更响来表达。此处链接是巡演现场，速度与段落长度可能与录音室版不同。",
+      "harmony": "用 C、G、Am、F 做功能听辨：主和弦提供落点，属和弦把重心推开，关系小和弦改变明暗，四级和弦带来展开感。这是移调后的和声概念练习；不要把四个和弦机械套到全曲。",
+      "rhythm": "先一小节一次低音，再加入中高音分解。每次换和弦让低音准时出现，其他手指可以稍后补齐；不要用连续扫弦填满歌声留下的空隙。",
+      "sing": "先用舒服的音区轻声讲唱，再确定变调夹位置。每句结尾保留气息，让最后一个字自然落下，避免为了模仿音色压低喉咙。",
+      "meaning": "可以把它听成一次克制的靠近：情感没有被一次说尽，而是在叙述和停顿里慢慢显露。弹唱时不必每句都推到高潮，留白本身就是表达。这里是听感解读，不是对作者创作意图的断言。"
+    },
+    "practice": [
+      "3 分钟听现场并标出人声入口",
+      "5 分钟以 60 BPM 练 C→G→Am→F 的低音落点",
+      "4 分钟只给一个短句配伴奏",
+      "3 分钟录音，检查伴奏是否盖过人声"
+    ],
+    "sheet": "assets/sheets/duo.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9B%B7%20%E6%9C%B5%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "duo",
+      "title": "朵",
+      "artist": "赵雷",
+      "prog": "1564",
+      "key": "F",
+      "shapes": "F · C · Dm · Bb（部分段落）",
+      "section": "主歌常见156片段 / 副歌部分1564",
+      "note": "参考C指型、变调夹5品的编配，实际为F调。主歌多为C–G–Am，副歌加入F、G等变化，并非整首严格1564。也有其他版本，优先对照你手上的谱。",
+      "parts": [
+        [
+          "主歌部分（capo 5指型）",
+          "C – G – Am"
+        ],
+        [
+          "副歌部分典型走向（capo 5指型）",
+          "C – G – Am – F"
+        ],
+        [
+          "实际发声音阶体系",
+          "F大调；旋律与和弦均升5半音"
+        ]
+      ],
+      "url": "https://www.jitapai.com/202659166.html"
+    },
+    "number": 1
+  },
+  {
+    "id": "letitbe",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "category": "英语弹唱",
+    "level": 1,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "G",
+      "Am",
+      "F"
+    ],
+    "youtube": "CGj85pVzRJs",
+    "listenLabel": "The Beatles · 官方音乐视频",
+    "scoreUrl": "https://openguitarchords.com/zh/songs/let-it-be-chords",
+    "originalScoreUrl": "https://openguitarchords.com/zh/songs/let-it-be-chords",
+    "meter": "4/4",
+    "focus": "同一组和弦，也能有起伏",
+    "analysis": {
+      "listen": "先听钢琴和人声的关系，再听乐队加入后空间怎样打开。记住副歌的重复与段落结尾的收束，不要只盯着开头四个和弦。",
+      "harmony": "开头可用 I–V–vi–IV 理解，C→G 把重心向外推，Am 让色彩转暗，F 重新铺开。后面的收束有额外和弦，因此 1564 只是片段骨架，不能替代整首编配。",
+      "rhythm": "用四拍稳扫或均匀八分分解起步。副歌稍微加强第 2、4 拍；结尾减小动作，让和声自己完成解决，而不是突然减速。",
+      "sing": "旋律从容不等于没有支撑。先哼元音找到长音，再补辅音；句尾的辅音轻收，不要切断前面的延音。",
+      "meaning": "这首歌可以听成在不确定中寻找安定的声音。重复的旋律像一次次重新确认，因此演唱需要耐心和接纳感；把所有句子唱成强烈宣告，反而会失去安慰的温度。"
+    },
+    "practice": [
+      "3 分钟对照原曲区分主歌和副歌",
+      "4 分钟慢练 C→G 和 Am→F",
+      "5 分钟用弱主歌、强副歌练动态",
+      "3 分钟录一遍，检查句尾拍点"
+    ],
+    "sheet": "assets/sheets/letitbe.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=The%20Beatles%20Let%20It%20Be%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "letitbe",
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "prog": "1564",
+      "key": "C",
+      "shapes": "C · G · Am · F",
+      "section": "主歌前半段 / 开头",
+      "note": "典型1564片段，但后面会使用其他和弦，不是全曲四和弦循环。",
+      "parts": [
+        [
+          "主歌开头（练习）",
+          "C – G – Am – F"
+        ],
+        [
+          "后续走向（部分版本）",
+          "C – G – F – Em – Dm – C"
+        ]
+      ],
+      "url": "https://openguitarchords.com/zh/songs/let-it-be-chords"
+    },
+    "number": 2
+  },
+  {
+    "id": "qing",
+    "title": "晴天",
+    "artist": "周杰伦",
+    "category": "华语流行",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "F",
+      "G",
+      "Em",
+      "Am",
+      "Dm",
+      "G",
+      "C"
+    ],
+    "youtube": "DYptgVvkVLQ",
+    "listenLabel": "周杰伦 · 官方 MV",
+    "scoreUrl": "https://www.ultimate-guitar.com/search.php?search=%E6%99%B4%E5%A4%A9%20%E5%91%A8%E6%9D%B0%E4%BC%A6&type=300",
+    "originalScoreUrl": "https://www.ultimate-guitar.com/search.php?search=%E6%99%B4%E5%A4%A9%20%E5%91%A8%E6%9D%B0%E4%BC%A6&type=300",
+    "meter": "4/4",
+    "focus": "让前奏、叙述和副歌各有角色",
+    "analysis": {
+      "listen": "先听吉他前奏怎样建立记忆点，再比较主歌密集的语言与副歌更展开的旋律。伴奏和声有段落差异，前奏指弹也不是扫四个和弦就能替代。",
+      "harmony": "本页用 F→G→Em→Am→Dm→G→C 练 4536251 的方向感：前半段不断推进，后半段形成 ii–V–I 的回归。这是段落型训练公式，完整顺序应对照外部谱。",
+      "rhythm": "先把歌声的切分拍出来，再弹均匀八分音符。遇到一小节两个和弦时练半小节换位；不要每个和弦都默认占整小节。",
+      "sing": "从说话节奏拆分主歌，辅音提前准备，元音落到拍上。副歌高音先降调练通顺，避免把音量增加误当成音高支撑。",
+      "meaning": "青春的明亮与回望的遗憾可以同时存在。主歌更像记忆中的细节，副歌把没有说完的情绪放大；弹唱时区分叙述和呼喊，比从头到尾用同样的情绪更有层次。"
+    },
+    "practice": [
+      "3 分钟听前奏与副歌的区别",
+      "4 分钟慢练 Em→Am 与 Dm→G→C",
+      "5 分钟先念主歌节奏再弹唱",
+      "3 分钟录副歌，检查是否抢拍"
+    ],
+    "sheet": "assets/sheets/qing.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%99%B4%E5%A4%A9%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "qing",
+      "title": "晴天（部分变体）",
+      "artist": "周杰伦",
+      "prog": "4536251",
+      "key": "版本不一",
+      "shapes": "F · G · Em · Am · Dm · G · C（练习公式）",
+      "section": "用于练习华语抒情公式",
+      "note": "仅作为这一类和声走向的练习线索；不同版本和段落可能不严格按4536251，完整和弦须以外部谱为准。",
+      "parts": [
+        [
+          "C大调4536251练习公式（非原曲逐小节谱）",
+          "F – G – Em – Am – Dm – G – C"
+        ]
+      ],
+      "url": "https://www.ultimate-guitar.com/search.php?search=%E6%99%B4%E5%A4%A9%20%E5%91%A8%E6%9D%B0%E4%BC%A6&type=300"
+    },
+    "number": 3
+  },
+  {
+    "id": "perfect",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "category": "英语弹唱",
+    "level": 2,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "Em",
+      "C",
+      "D"
+    ],
+    "youtube": "2Vv-BfVoq4g",
+    "listenLabel": "Ed Sheeran · 官方 MV",
+    "scoreUrl": "https://openguitarchords.com/zh/songs/perfect-chords",
+    "originalScoreUrl": "https://openguitarchords.com/zh/songs/perfect-chords",
+    "meter": "12/8",
+    "focus": "理解三连的摇曳，不把它弹成进行曲",
+    "analysis": {
+      "listen": "数一组组的三连细分，注意强拍之间有流动的小脉冲。听主歌的克制和后段层次增加，先感受大拍，再处理装饰音。",
+      "harmony": "练习指型 G–Em–C–D 对应 I–vi–IV–V，主和弦与关系小和弦共享音，因此转换柔和。歌曲还有不同顺序与经过低音；本页是便于弹唱的移调练习。",
+      "rhythm": "把一小节理解为四个大拍，每拍细分三下。先弹每组第一个低音，再补两个高音；右手重量落在大拍上，别把十二个音弹成一样重。",
+      "sing": "句子拉长时先规划换气。弱拍的词不要刻意重读，长元音撑住，结尾辅音后放；找舒服的调比追求原调更重要。",
+      "meaning": "它的亲密感建立在朴素的叙述和缓慢摆动上。不要只把它唱成“甜”，还要留出认真看待对方的分量；用稳定而轻的伴奏，让承诺感自然出现。"
+    },
+    "practice": [
+      "3 分钟边听边数四组三连",
+      "4 分钟单和弦练 12/8 低音加高音",
+      "5 分钟练 G→Em→C→D",
+      "3 分钟轻声唱一段并保持大拍"
+    ],
+    "sheet": "assets/sheets/perfect.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Ed%20Sheeran%20Perfect%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "perfect",
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "prog": "1645",
+      "key": "Ab",
+      "shapes": "Ab · Fm · Db · Eb",
+      "section": "主歌基础走向；副歌从vi起",
+      "note": "常用capo 1：按G–Em–C–D。原曲有复合拍节奏；简化四拍循环仅用于练和弦顺序。",
+      "parts": [
+        [
+          "主歌（capo 1指型）",
+          "G – Em – C – D"
+        ],
+        [
+          "副歌常见段落",
+          "Em – C – G – D"
+        ],
+        [
+          "实际发声",
+          "Ab – Fm – Db – Eb"
+        ]
+      ],
+      "url": "https://openguitarchords.com/zh/songs/perfect-chords"
+    },
+    "number": 4
+  },
+  {
+    "id": "withorwithout",
+    "title": "With or Without You",
+    "artist": "U2",
+    "category": "英语弹唱",
+    "level": 2,
+    "practiceKey": "D",
+    "chords": [
+      "D",
+      "A",
+      "Bm",
+      "G"
+    ],
+    "youtube": "ujNeHIo7oTE",
+    "listenLabel": "U2 · 官方音乐视频",
+    "scoreUrl": "https://www.guitartabs.cc/tabs/u/u2/with_or_without_you_crd.html",
+    "originalScoreUrl": "https://www.guitartabs.cc/tabs/u/u2/with_or_without_you_crd.html",
+    "meter": "4/4",
+    "focus": "和声不变，编配也能持续生长",
+    "analysis": {
+      "listen": "先追踪循环的低音，再听鼓、人声和持续音如何一层层加入。作品张力主要来自织体与力度发展，值得练的是耐心地建立过程。",
+      "harmony": "D–A–Bm–G 是 I–V–vi–IV 的常见循环。同一个和弦在不同旋律下会产生不同意味，所以循环不等于情绪停住；练习时保留共同音，让声音连起来。",
+      "rhythm": "先用四拍下扫，把小节线弹稳；随后每四个循环增加一点扫弦密度。不要一开始就用最大音量，给后段留出空间。",
+      "sing": "主歌先用接近说话的音量。高处不要模仿用力喊叫，可降调保持气流稳定，把增强的情绪交给句子走向和伴奏层次。",
+      "meaning": "可以从反复拉扯的情绪理解它：靠近与离开都不轻松。和弦循环不变，强度却不断积累，正好让人听见一种难以脱离的状态；因此层次比频繁换音型更重要。"
+    },
+    "practice": [
+      "3 分钟只听低音循环",
+      "4 分钟练 D→A 与 Bm→G",
+      "5 分钟连续四轮从轻到强",
+      "3 分钟录音，判断是否真的逐层增加"
+    ],
+    "sheet": "assets/sheets/withorwithout.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=U2%20With%20or%20Without%20You%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "withorwithout",
+      "title": "With or Without You",
+      "artist": "U2",
+      "prog": "1564",
+      "key": "D",
+      "shapes": "D · A · Bm · G",
+      "section": "贯穿歌曲的主要循环",
+      "note": "经典I–V–vi–IV；可先每小节1和弦。",
+      "parts": [
+        [
+          "主要循环",
+          "D – A – Bm – G"
+        ]
+      ],
+      "url": "https://www.guitartabs.cc/tabs/u/u2/with_or_without_you_crd.html"
+    },
+    "number": 5
+  },
+  {
+    "id": "im_yours",
+    "title": "I'm Yours",
+    "artist": "Jason Mraz",
+    "category": "英语弹唱",
+    "level": 2,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "D",
+      "Em",
+      "C"
+    ],
+    "youtube": "EkHTsc9PU2A",
+    "listenLabel": "Jason Mraz · 官方 MV",
+    "scoreUrl": "https://openguitarchords.com/songs/im-yours-chords",
+    "originalScoreUrl": "https://openguitarchords.com/songs/im-yours-chords",
+    "meter": "4/4",
+    "focus": "轻松感来自稳定的反拍",
+    "analysis": {
+      "listen": "跟着吉他的反拍轻点头，听人声如何在稳定律动上自由摆动。桥段和主循环不同，跟唱时要记住变化入口。",
+      "harmony": "G–D–Em–C 是方便的 I–V–vi–IV 指型。夹第 4 品可得到 B 调的这组功能关系，但演唱可自行选调。桥段不要继续盲目循环四和弦。",
+      "rhythm": "先在第 2、4 拍做短促扫弦，再细分八分拍。上扫动作轻且短，空下来的手仍保持摆动；反拍明确才能听起来松弛。",
+      "sing": "先把快句当作口语念顺，用慢速练辅音衔接。吸气选在语义停顿处，唱快时也不要把每个音节都加重。",
+      "meaning": "轻松的表面之下，是愿意放下防备、向关系打开的姿态。松弛不等于随意拖拍，而是节奏很稳、语气却自然；把每个字唱得过重，会损失这种开放感。"
+    },
+    "practice": [
+      "3 分钟拍手找反拍",
+      "4 分钟闷弦练轻重",
+      "5 分钟四和弦循环加一句人声",
+      "3 分钟放慢快句，保证口齿和拍点"
+    ],
+    "sheet": "assets/sheets/im_yours.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Jason%20Mraz%20I%27m%20Yours%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "im_yours",
+      "title": "I'm Yours",
+      "artist": "Jason Mraz",
+      "prog": "1564",
+      "key": "B",
+      "shapes": "B · F# · G#m · E",
+      "section": "主歌 / 副歌的主要骨架",
+      "note": "原调B；可夹4品使用G–D–Em–C指型。桥段有其他和弦。",
+      "parts": [
+        [
+          "主歌和副歌主要走向",
+          "B – F# – G#m – E"
+        ],
+        [
+          "吉他简易指型 · capo 4",
+          "G – D – Em – C"
+        ]
+      ],
+      "url": "https://openguitarchords.com/songs/im-yours-chords"
+    },
+    "number": 6
+  },
+  {
+    "id": "someone",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "category": "英语弹唱",
+    "level": 2,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "Bm",
+      "Em",
+      "C"
+    ],
+    "youtube": "hLQl3WQQoQ0",
+    "listenLabel": "Adele · 官方 MV",
+    "scoreUrl": "https://openguitarchords.com/songs/someone-like-you-chords",
+    "originalScoreUrl": "https://openguitarchords.com/songs/someone-like-you-chords",
+    "meter": "4/4",
+    "focus": "用持续的分解托住长线条",
+    "analysis": {
+      "listen": "先听钢琴重复音型的均匀程度，再听人声怎样越过小节线。副歌虽然更有力量，伴奏脉冲仍稳定，情绪不是靠全程加速得到的。",
+      "harmony": "移调用 G 调练主歌 G–Bm–Em–C，是 I–iii–vi–IV；副歌改成 G–D–Em–C，才是 I–V–vi–IV。三级到属和弦的替换，会改变推进的力度。",
+      "rhythm": "右手先持续八分分解，左手换位前最后一个音保持时值。若 Bm 困难，先只练低音与三根高音弦，逐步扩展到完整横按。",
+      "sing": "先在低音量下练完整长句，再增强音量。换气放在意思完整的位置；高音用合适调性解决，不要挤压喉咙去追录音。",
+      "meaning": "失落与祝愿可以在同一个句子里共存。演唱可以保留不舍，而不急着把情绪解释成愤怒；钢琴式的重复陪着人声走，让克制和释放形成对比。"
+    },
+    "practice": [
+      "3 分钟比较主歌与副歌和声",
+      "4 分钟练 Bm 横按清晰度",
+      "5 分钟匀速分解连两段",
+      "3 分钟录音听长句末尾是否失去支撑"
+    ],
+    "sheet": "assets/sheets/someone.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Adele%20Someone%20Like%20You%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "someone",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "prog": "1564",
+      "key": "A",
+      "shapes": "A · E · F#m · D",
+      "section": "副歌（主歌另有变化）",
+      "note": "副歌适合1564；主歌的A–C#m–F#m–D是1364，不能把整首说成1564。",
+      "parts": [
+        [
+          "主歌基础和声",
+          "A – C#m – F#m – D"
+        ],
+        [
+          "副歌基础和声",
+          "A – E – F#m – D"
+        ],
+        [
+          "便捷指型 · capo 2（副歌）",
+          "G – D – Em – C"
+        ]
+      ],
+      "url": "https://openguitarchords.com/songs/someone-like-you-chords"
+    },
+    "number": 7
+  },
+  {
+    "id": "standbyme",
+    "title": "Stand by Me",
+    "artist": "Ben E. King",
+    "category": "英语弹唱",
+    "level": 1,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "Em",
+      "C",
+      "D"
+    ],
+    "youtube": "hwZNL7QVJjE",
+    "listenLabel": "Ben E. King · 原唱音频",
+    "scoreUrl": "https://openguitarchords.com/songs/stand-by-me-chords",
+    "originalScoreUrl": "https://openguitarchords.com/songs/stand-by-me-chords",
+    "meter": "4/4",
+    "focus": "先听懂低音的循环",
+    "analysis": {
+      "listen": "把耳朵放到标志性的低音线上，数清循环何时回到起点。伴奏变化不多，稳定的落点为人声留下了表达空间。",
+      "harmony": "G–Em–C–D 是 I–vi–IV–V 的移调练习。大调与关系小调之间既相似又有明暗差别，最后的 V 指向 I；试着先只弹根音，就能听到回家的方向。",
+      "rhythm": "别把有弹性的低音律动弹成匀速重砸。先弹每小节首拍，再补短促扫弦，节拍器从慢速开始，保证循环最后一拍不拖长。",
+      "sing": "用自然的口语重音带动旋律。句尾不要急着吸气，留足延音；重复句可改变音量，避免四次都唱成同一个平面。",
+      "meaning": "重点是陪伴带来的稳定感，而不是炫耀音域。低音循环像反复出现的支持，演唱可以逐句增加笃定感；稳定的节拍会让这种情绪更可信。"
+    },
+    "practice": [
+      "3 分钟只跟唱低音节奏",
+      "4 分钟练 G→Em",
+      "5 分钟四和弦连续八轮不中断",
+      "3 分钟加人声，检查结尾回到首拍"
+    ],
+    "sheet": "assets/sheets/standbyme.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Ben%20E.%20King%20Stand%20by%20Me%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "standbyme",
+      "title": "Stand by Me",
+      "artist": "Ben E. King",
+      "prog": "1645",
+      "key": "A",
+      "shapes": "A · F#m · D · E",
+      "section": "主要循环（时值可能重复）",
+      "note": "经典1645。原版常将I、vi保持更长，建议留意每个和弦的小节数。",
+      "parts": [
+        [
+          "和弦骨架",
+          "A – F#m – D – E"
+        ],
+        [
+          "8小节练习",
+          "A | A | F#m | F#m | D | E | A | A"
+        ],
+        [
+          "便捷指型 · capo 2",
+          "G – Em – C – D"
+        ]
+      ],
+      "url": "https://openguitarchords.com/songs/stand-by-me-chords"
+    },
+    "number": 8
+  },
+  {
+    "id": "heartandsoul",
+    "title": "Heart and Soul",
+    "artist": "Hoagy Carmichael",
+    "category": "爵士与古典",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "Am",
+      "Dm",
+      "G7"
+    ],
+    "youtube": "21rLe8bJKVA",
+    "listenLabel": "Hoagy Carmichael / Connie Boswell · 授权音频",
+    "scoreUrl": "https://www.chordlines.com/hoagy-carmichael/heart-and-soul",
+    "originalScoreUrl": "https://www.chordlines.com/hoagy-carmichael/heart-and-soul",
+    "meter": "4/4",
+    "focus": "从 1645 走向更柔和的 1625",
+    "analysis": {
+      "listen": "听老录音的人声摆动和伴奏回应，不必照抄每一个装饰。比较句子开始与结尾，感受爵士语句常常在稳定大拍上轻轻前后移动。",
+      "harmony": "练习 C–Am–Dm–G7 的 I–vi–ii–V。二级小和弦比四级多一点流动感，G7 的不稳定音让回到 C 更鲜明；七和弦可先减音练习。",
+      "rhythm": "先用直八分把换位练稳，再尝试有轻重的摇摆感觉。摇摆不是随意抢拍，也不是把每两个音都机械拉成固定比例。",
+      "sing": "先听原唱如何收短音与留长音。用哼唱模仿节奏轮廓，再添英文；别一开始就加入大量转音。",
+      "meaning": "把它当作轻巧又热烈的情感表达。爵士语句里的弹性让直接的感情多了一点俏皮，演唱可以像与人对话，不需要把每个句尾都拖得很长。"
+    },
+    "practice": [
+      "3 分钟听授权录音的句尾",
+      "4 分钟练 Dm→G7→C",
+      "5 分钟同一循环比较直拍与摇摆",
+      "3 分钟轻唱并保留休止"
+    ],
+    "sheet": "assets/sheets/heartandsoul.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Hoagy%20Carmichael%20Heart%20and%20Soul%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "heartandsoul",
+      "title": "Heart and Soul",
+      "artist": "Hoagy Carmichael",
+      "prog": "1625",
+      "key": "F",
+      "shapes": "F · Dm7 · Gm7 · C7",
+      "section": "主旋律段的1625形式",
+      "note": "原版主段的基本逻辑为I–vi–ii–V，并常使用七和弦；它与1645类似，但ii不能直接混同IV。",
+      "parts": [
+        [
+          "主段常见形式",
+          "F – Dm7 – Gm7 – C7"
+        ],
+        [
+          "C调1625基础练习（非原曲原调）",
+          "C – Am – Dm – G"
+        ]
+      ],
+      "url": "https://www.chordlines.com/hoagy-carmichael/heart-and-soul"
+    },
+    "number": 9
+  },
+  {
+    "id": "zombie",
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "category": "英语弹唱",
+    "level": 1,
+    "practiceKey": "Em",
+    "chords": [
+      "Em",
+      "C",
+      "G",
+      "D"
+    ],
+    "youtube": "6Ejga4kJUts",
+    "listenLabel": "The Cranberries · 官方 MV",
+    "scoreUrl": "https://openguitarchords.com/songs/zombie-chords",
+    "originalScoreUrl": "https://openguitarchords.com/songs/zombie-chords",
+    "meter": "4/4",
+    "focus": "四个和弦里的重量与克制",
+    "analysis": {
+      "listen": "先比较安静主歌与失真吉他进入后的副歌。音乐力度变化很大，但循环本身相对稳定；弹唱版可以用音区与触弦重量重建这种对比。",
+      "harmony": "Em–C–G–D 围绕 E 小调展开。C 和 G 带来更明亮的邻近色彩，D 又留下继续走的感觉；它不是简单的悲伤小调标签，而是循环张力。",
+      "rhythm": "主歌用轻分解，副歌改为有支点的下扫。强拍来自手臂重量的释放，不是握紧拨片；保持左右手放松，才有足够的动态空间。",
+      "sing": "标志性的换声与装饰要在舒适音域内尝试。先唱干净的主音，再加一点滑动；不用尖叫复制录音质感。",
+      "meaning": "可以把它听成悲伤与控诉同时发出的声音。安静与强烈段落的反差很重要；弹唱时先让叙述成立，再释放张力，不必靠全程喊唱表达沉重。"
+    },
+    "practice": [
+      "3 分钟比较主副歌音色",
+      "4 分钟循环练 Em→C→G→D",
+      "5 分钟用同一速度做强弱切换",
+      "3 分钟录副歌检查是否越弹越快"
+    ],
+    "sheet": "assets/sheets/zombie.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=The%20Cranberries%20Zombie%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "zombie",
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "prog": "6415",
+      "key": "Em",
+      "shapes": "Em · C · G · D",
+      "section": "主要和弦循环",
+      "note": "它经常被归在G大调相对视角的vi–IV–I–V，但歌曲通常以E小调听感为中心。",
+      "parts": [
+        [
+          "简化练习循环",
+          "Em – C – G – D"
+        ]
+      ],
+      "url": "https://openguitarchords.com/songs/zombie-chords"
+    },
+    "number": 10
+  },
+  {
+    "id": "despacito",
+    "title": "Despacito",
+    "artist": "Luis Fonsi / Daddy Yankee",
+    "category": "拉丁流行",
+    "level": 3,
+    "practiceKey": "Am",
+    "chords": [
+      "Am",
+      "F",
+      "C",
+      "G"
+    ],
+    "youtube": "kJQP7kiw5Fk",
+    "listenLabel": "Luis Fonsi · 官方 MV",
+    "scoreUrl": "https://stevenlawguitar.com/wp-content/uploads/2017/06/despacito.pdf",
+    "originalScoreUrl": "https://chordshift.app/songs/despacito-luis-fonsi",
+    "meter": "4/4",
+    "focus": "用节奏层次替代盲目扫弦",
+    "analysis": {
+      "listen": "先听打击乐的反复型，再听人声如何在鼓点之间落字。吉他独奏或弹唱只能重组原编曲的层次，不是把所有音都塞进右手。",
+      "harmony": "练习指型 Am–F–C–G 是小调起点的 vi–IV–I–V（以 C 大调关系理解），夹第 2 品得到 Bm–G–D–A。和弦简单，但律动与语言才是主要难度。",
+      "rhythm": "先把一小节分成八个位置，只在选定位置扫弦，空拍保持手部摆动。逐步加入闷音，避免一上来就追原曲速度和复杂击板。",
+      "sing": "先按西班牙语音节慢读，不熟悉的词先听原唱确认。将密集音节分成小组练习，让重音与节奏重合，而不是每字同样用力。",
+      "meaning": "语言的靠近感与舞曲律动相互配合。理解它时先关注重音、停顿和音节怎样贴着节奏走；六弦吉他改编可以保留轻巧的推动，不必复制整套电子打击乐。"
+    },
+    "practice": [
+      "3 分钟只听鼓与贝斯",
+      "4 分钟闷弦练切分",
+      "5 分钟把一短句分成两组慢唱",
+      "3 分钟循环和弦并检查空拍"
+    ],
+    "sheet": "assets/sheets/despacito.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Luis%20Fonsi%20/%20Daddy%20Yankee%20Despacito%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "despacito",
+      "title": "Despacito",
+      "artist": "Luis Fonsi / Daddy Yankee",
+      "prog": "6415",
+      "key": "Bm",
+      "shapes": "Bm · G · D · A",
+      "section": "主要循环",
+      "note": "歌曲以B小调为中心，换成D大调相对视角是vi–IV–I–V。",
+      "parts": [
+        [
+          "常见主要循环",
+          "Bm – G – D – A"
+        ]
+      ],
+      "url": "https://chordshift.app/songs/despacito-luis-fonsi"
+    },
+    "number": 11
+  },
+  {
+    "id": "autumn",
+    "title": "Autumn Leaves",
+    "artist": "Joseph Kosma / Nat King Cole",
+    "category": "爵士与古典",
+    "level": 3,
+    "practiceKey": "Em",
+    "chords": [
+      "Am7",
+      "D7",
+      "Gmaj7",
+      "Cmaj7",
+      "F#m7b5",
+      "B7",
+      "Em"
+    ],
+    "youtube": "aCi59-y6dNg",
+    "listenLabel": "Nat King Cole · 授权音频",
+    "scoreUrl": "https://www.jazzguitar.be/blog/autumn-leaves-easy-jazz-guitar-chords",
+    "originalScoreUrl": "https://www.jazzguitar.be/blog/autumn-leaves-easy-jazz-guitar-chords",
+    "meter": "4/4",
+    "focus": "听见五度循环里的方向感",
+    "analysis": {
+      "listen": "先哼旋律轮廓，再听伴奏如何由明转暗。此处选 Nat King Cole 演唱版帮助理解旋律；爵士不同演奏会转调、重配和声，不能把某版当唯一标准。",
+      "harmony": "G 大调 / E 小调练习中，Am7–D7–Gmaj7 是大调 ii–V–I，F#m7♭5–B7–Em 是小调 iiø–V–i。注意 B7 的 D# 把耳朵牵向 E，这是小调解决的重要线索。",
+      "rhythm": "先每小节弹一组和弦，确认三音与七音的移动，再尝试轻巧的爵士切分。不要把所有弦都扫满，少量清楚的和弦音更利于听见声部。",
+      "sing": "先用原唱熟悉句法，再用自己的调哼唱。保持旋律的连线感；音高有把握后才加入延后或提前的爵士处理。",
+      "meaning": "这首标准曲常被唱出回忆与失落的色彩。大调和小调之间的转移，可以像记忆明亮片段与现实空缺的交替；这是一种听法，不同歌手也会给出不同情绪。"
+    },
+    "practice": [
+      "3 分钟听旋律与段落",
+      "5 分钟分练两组 ii–V–I",
+      "4 分钟只弹和弦三音和七音",
+      "3 分钟连成循环并听最后的解决"
+    ],
+    "sheet": "assets/sheets/autumn.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Joseph%20Kosma%20/%20Nat%20King%20Cole%20Autumn%20Leaves%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "autumn",
+      "title": "Autumn Leaves",
+      "artist": "Jazz standard",
+      "prog": "251",
+      "key": "G / Em",
+      "shapes": "Am7 · D7 · Gmaj7",
+      "section": "若干段落中的大调ii–V–I",
+      "note": "进阶项目。与基本三和弦251不同，爵士通常采用7和弦，曲中也有小调ii–V–i。",
+      "parts": [
+        [
+          "G大调 ii–V–I 示例",
+          "Am7 – D7 – Gmaj7"
+        ],
+        [
+          "示例：C大调 ii–V–I",
+          "Dm7 – G7 – Cmaj7"
+        ]
+      ],
+      "url": "https://www.jazzguitar.be/blog/autumn-leaves-easy-jazz-guitar-chords"
+    },
+    "number": 12
+  },
+  {
+    "id": "canon",
+    "title": "Canon in D",
+    "artist": "Johann Pachelbel",
+    "category": "爵士与古典",
+    "level": 3,
+    "practiceKey": "D",
+    "chords": [
+      "D",
+      "A",
+      "Bm",
+      "F#m",
+      "G",
+      "D",
+      "G",
+      "A"
+    ],
+    "youtube": "U5AO5G4VwNA",
+    "listenLabel": "Voices of Music · 古乐器演奏",
+    "scoreUrl": "https://jgmusiclessons.com/canon-in-d-chords-and-guitar-arrangement-with-tabs/",
+    "originalScoreUrl": "https://jgmusiclessons.com/canon-in-d-chords-and-guitar-arrangement-with-tabs/",
+    "meter": "4/4",
+    "focus": "低音反复，旋律层层进入",
+    "analysis": {
+      "listen": "先追踪不断重复的低音，再辨认各个声部依次进入。它是器乐作品，本来没有“怎么唱”的原唱；哼唱其中一个声部，可以帮助理解对位。",
+      "harmony": "D–A–Bm–F#m–G–D–G–A 是常见和声骨架。低音持续循环，旋律却能不断产生新关系：和声的熟悉感给复杂声部提供了稳定地基。",
+      "rhythm": "先每和弦一小节练习，随后根据所用改编调整时值。吉他指弹要分清旋律、内声与低音，切忌每个音同样响。",
+      "sing": "没有人声原版，可用哼唱单声部的方法练乐句。先唱最高音线，再弹低音，两种角色分开熟悉后再合到吉他。",
+      "meaning": "它没有固定的歌词故事，叙事来自声音本身。反复低音提供秩序，不同声部在同一地基上生长；理解这种“稳定中发生变化”，比只记住一个熟悉旋律更接近作品的趣味。"
+    },
+    "practice": [
+      "3 分钟只追踪低音",
+      "4 分钟练八和弦连接",
+      "5 分钟分别弹低音与高音",
+      "3 分钟录音检查旋律是否高于伴奏"
+    ],
+    "sheet": "assets/sheets/canon.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Johann%20Pachelbel%20Canon%20in%20D%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "canon",
+      "title": "Canon in D（卡农）",
+      "artist": "Johann Pachelbel",
+      "prog": "15634145",
+      "key": "D",
+      "shapes": "D · A · Bm · F#m · G · D · G · A",
+      "section": "经典和声骨架",
+      "note": "巴洛克经典和声循环；你可以直接在本站用D大调练习。",
+      "parts": [
+        [
+          "D大调简化伴奏骨架",
+          "D – A – Bm – F#m – G – D – G – A"
+        ]
+      ],
+      "url": "https://jgmusiclessons.com/canon-in-d-chords-and-guitar-arrangement-with-tabs/"
+    },
+    "number": 13
+  },
+  {
+    "id": "counting",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "category": "英语弹唱",
+    "level": 2,
+    "practiceKey": "Am",
+    "chords": [
+      "Am",
+      "C",
+      "G",
+      "F"
+    ],
+    "youtube": "kH9AFIM1zTk",
+    "listenLabel": "OneRepublic · 官方现场版",
+    "scoreUrl": "https://www.guitartabs.cc/tabs/o/onerepublic/counting_stars_crd.html",
+    "originalScoreUrl": "https://www.guitartabs.cc/tabs/o/onerepublic/counting_stars_crd.html",
+    "meter": "4/4",
+    "focus": "让循环有向前走的弹性",
+    "analysis": {
+      "listen": "先听吉他与脚下脉冲，再听副歌的集体推进感。链接为官方现场版本，编排与录音室不同，但能清楚观察歌手如何处理密集节奏。",
+      "harmony": "Am–C–G–F 是便于练习的移调，原来 C#m–E–B–A 的功能关系保持不变。小调起点之后连续大和弦，带来暗色叙事与明亮释放的对照。",
+      "rhythm": "稳定八分摆动后，突出反拍与短促收音。左手轻松放开压力即可得到干净的短音，不必用很大的右手动作制造节奏感。",
+      "sing": "先慢念密集的词，把句子重音圈出来。高段落先降调，用持续气流连接音节；不要因为赶词就把换和弦的拍点挤掉。",
+      "meaning": "可以听见对愿望与现实之间张力的回应。节奏不断向前，歌声有急切的推进感；弹唱要让这种推动保持弹性，不能因为急着表达就越弹越快。"
+    },
+    "practice": [
+      "3 分钟听现场的节奏重音",
+      "4 分钟闷弦练强弱",
+      "5 分钟慢练 Am→C→G→F 加短句",
+      "3 分钟录音检查人声是否带快伴奏"
+    ],
+    "sheet": "assets/sheets/counting.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=OneRepublic%20Counting%20Stars%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "legacy": {
+      "id": "counting",
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "prog": "6154",
+      "key": "C#m",
+      "shapes": "C#m · E · B · A",
+      "section": "主要循环（capo 4用Am指型）",
+      "note": "录音中心是C#小调；变调夹4品可以按Am–C–G–F。变调后在E大调相对视角中是vi–I–V–IV。",
+      "parts": [
+        [
+          "capo 4的吉他指型",
+          "Am – C – G – F"
+        ],
+        [
+          "实际发声",
+          "C#m – E – B – A"
+        ]
+      ],
+      "url": "https://www.guitartabs.cc/tabs/o/onerepublic/counting_stars_crd.html"
+    },
+    "number": 14
+  },
+  {
+    "id": "chengdu",
+    "title": "成都",
+    "artist": "赵雷",
+    "category": "华语民谣",
+    "level": 1,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "Em",
+      "F",
+      "G",
+      "Am"
+    ],
+    "youtube": "EPyFeQcDSUY",
+    "listenLabel": "赵雷 · MV",
+    "scoreUrl": "https://www.21qupu.com/guitar/31578.html",
+    "originalScoreUrl": null,
+    "meter": "6/8",
+    "focus": "把摇曳的大拍弹得自然",
+    "analysis": {
+      "listen": "先听每个大拍里三下细分的摆动，再比较主歌的叙述与副歌的展开。慢歌也有明确的脉冲，拖长句尾不能顺便拖慢下一拍。",
+      "harmony": "用 C、Em、F、G、Am 练大调常用和声之间的色彩差异。Em 的柔和与 F 的展开适合听辨，结尾 G→C 形成落点；具体段落顺序需看外部谱。",
+      "rhythm": "先数“一二三、四五六”，第一和第四下稍有重量。用低音带出大拍，再在第二、三下补高音，不要六下平均用力。",
+      "sing": "先轻声唱准长音，句尾保留一点气息。用完整的语意选择换气处；低音不够稳时先减少伴奏音符。",
+      "meaning": "城市不只是地名，也可以成为一段关系和生活记忆的容器。把具体场景当作叙述的中心，演唱就不必每句都抒情用力；摇曳的伴奏让回望有了时间感。"
+    },
+    "practice": [
+      "3 分钟听并拍出两个大拍",
+      "4 分钟单和弦练六拍分解",
+      "5 分钟连接 C→Em 与 F→G",
+      "3 分钟唱一段并检查摇曳感"
+    ],
+    "sheet": "assets/sheets/chengdu.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9B%B7%20%E6%88%90%E9%83%BD%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 15
+  },
+  {
+    "id": "nanfang",
+    "title": "南方姑娘",
+    "artist": "赵雷",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "Em",
+      "Am",
+      "G",
+      "F"
+    ],
+    "youtube": "J_b8YsVmyhw",
+    "listenLabel": "赵雷 · 歌曲试听",
+    "scoreUrl": "https://www.jitapai.com/2020821.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "用分解和弦留下叙事空间",
+    "analysis": {
+      "listen": "听前奏与人声之间的呼吸，再观察每段叙述如何自然推进。练习时先找到完整乐句，不必把每个句尾都弹成同样的填充。",
+      "harmony": "把 C–Em–Am 看成主和弦到三级、六级的渐暗路径，F 与 G 则帮助展开与回归。练习图只呈现这组和弦词汇，不能替代原曲逐句顺序。",
+      "rhythm": "分解时先突出低音，再让高音连贯。换位不熟就减少到低音加两根高音弦，确保不中断，再增加完整音型。",
+      "sing": "保持说话一样自然的重音，弱音节少用力。先确定最高音在舒适范围内，再决定是否使用变调夹。",
+      "meaning": "可以从异乡生活里的距离与牵挂进入这首歌。叙述者的观察和情绪未必总同步，弹唱时让细节先出现，情感随后慢慢跟上，会比一开始就唱得很悲伤更耐听。"
+    },
+    "practice": [
+      "3 分钟标出乐句呼吸",
+      "4 分钟练 C→Em→Am",
+      "5 分钟低音加高音简伴奏",
+      "3 分钟录一段检查句尾是否挤满"
+    ],
+    "sheet": "assets/sheets/nanfang.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9B%B7%20%E5%8D%97%E6%96%B9%E5%A7%91%E5%A8%98%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 16
+  },
+  {
+    "id": "jide",
+    "title": "我记得",
+    "artist": "赵雷",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "G",
+      "Am",
+      "Em",
+      "F"
+    ],
+    "youtube": "DEyJ0tSTr-8",
+    "listenLabel": "赵雷 · 歌曲试听",
+    "scoreUrl": "https://www.jitapai.com/202249294.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "让平静的声音承载长线条",
+    "analysis": {
+      "listen": "先不弹琴，完整听一次叙述的推进。注意重复的伴奏怎样保持秩序，人声又怎样在秩序里改变轻重；别把情绪直接理解成“唱得更响”。",
+      "harmony": "练习 C–G–Am–Em 的明暗变化，再加入 F 展开。关系小和弦和三级之间有共同音，连贯保留它们，可以让伴奏更平静；完整和弦顺序以外谱为准。",
+      "rhythm": "用小幅度、均匀的分解音型起步，每组首拍让低音清晰。句尾可以减少高音，但大拍继续前行，不能因为留白而丢拍。",
+      "sing": "先把一句话念顺再哼旋律。吸气安静且及时，长句末尾不要强挤；音色用自己的自然声音，不模仿刻意沙哑。",
+      "meaning": "相遇、离别与记忆在叙述中互相呼应，可以理解成跨越时间的寻找。演唱不要急着给每一段设定高潮，让重复与细节逐渐积累，后面的情绪才有重量。"
+    },
+    "practice": [
+      "3 分钟完整聆听并记下情绪变化",
+      "4 分钟练共同音连接",
+      "5 分钟只弹主歌一小段",
+      "3 分钟回听是否每个字都过重"
+    ],
+    "sheet": "assets/sheets/jide.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9B%B7%20%E6%88%91%E8%AE%B0%E5%BE%97%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 17
+  },
+  {
+    "id": "gulou",
+    "title": "鼓楼",
+    "artist": "赵雷",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "D",
+      "Em",
+      "C",
+      "Am"
+    ],
+    "youtube": "zfBADy1tRsQ",
+    "listenLabel": "赵雷 · 授权现场音频",
+    "scoreUrl": "https://www.jitapai.com/202357048.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "明亮节奏与叙述语气并行",
+    "analysis": {
+      "listen": "先听鼓和贝斯如何带动步伐，再听人声叙述的松紧。现场版可能有更长的前奏与间奏，跟练时要先确认歌声入口。",
+      "harmony": "G 调练习里，G、D、Em、C 提供熟悉的主属与关系小调色彩，Am 可以通向 D。不要只按循环背手势，要先听每句何处需要结束、何处还在向前。",
+      "rhythm": "扫弦保持八分音符的摆动，让第 2、4 拍有轻巧的支点。空拍不停止右手，闷音先独立练再放入和弦。",
+      "sing": "主歌用清楚的说话节奏；副歌加强语气时不要抢到拍前。先给密集字句分组，换气点要和吉他换位错开练。",
+      "meaning": "地点可以承载一个人不同时期的生活。明亮的节奏与复杂的回望并不矛盾，弹唱可以保持向前的步伐，同时让语气留下若有所思的余地。"
+    },
+    "practice": [
+      "3 分钟跟现场找入口",
+      "4 分钟闷弦练反拍",
+      "5 分钟用 G 调和弦练短段落",
+      "3 分钟录音检查是否赶字"
+    ],
+    "sheet": "assets/sheets/gulou.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9B%B7%20%E9%BC%93%E6%A5%BC%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 18
+  },
+  {
+    "id": "shiguang",
+    "title": "我们的时光",
+    "artist": "赵雷",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "G",
+      "Am",
+      "Em",
+      "F"
+    ],
+    "youtube": "WtYx1geh_sg",
+    "listenLabel": "赵雷 · MV",
+    "scoreUrl": "https://www.jitapai.com/202245965.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "用稳定的手感弹出共同回忆",
+    "analysis": {
+      "listen": "听原曲时分辨吉他、贝斯与人声的层次。歌曲有合唱般的向前感，弹唱版可以靠主副歌强弱与扫弦密度变化得到类似效果。",
+      "harmony": "C 调指型是移调的练习材料，C、G、Am、Em、F 之间既有主属关系也有共同音联系。先听清楚低音怎么走，再对照外部编配学习完整段落。",
+      "rhythm": "先连续八小节维持同样的速度，成功后再加扫弦切分。副歌增加触弦范围，主歌减少范围，让层次来自演奏控制。",
+      "sing": "副歌适合用连贯而明亮的语气，但不要把每个字都向外推。大句之间换气，长音末尾保持音高。",
+      "meaning": "它适合从共同经历和同伴感进入。重要的不只是怀念过去，也有一起走过的热度；副歌的开阔感需要主歌更日常的叙述来衬托。"
+    },
+    "practice": [
+      "3 分钟听编曲的层次",
+      "4 分钟四拍扫弦不断线",
+      "5 分钟比较窄扫与宽扫",
+      "3 分钟加人声录一段"
+    ],
+    "sheet": "assets/sheets/shiguang.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9B%B7%20%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%B6%E5%85%89%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 19
+  },
+  {
+    "id": "banma",
+    "title": "斑马斑马",
+    "artist": "宋冬野",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "Bm",
+      "Em",
+      "C",
+      "D"
+    ],
+    "youtube": "FZ8o_N57RYk",
+    "listenLabel": "宋冬野 · 艺人频道",
+    "scoreUrl": "https://www.jitapai.com/2020597.html",
+    "originalScoreUrl": null,
+    "meter": "6/8",
+    "focus": "慢摇里保留每一次呼吸",
+    "analysis": {
+      "listen": "跟着伴奏轻数两组“三”，观察歌声怎样从弱位进入。重点不在模仿低沉音色，而在听出每个完整句子与伴奏的呼吸关系。",
+      "harmony": "G、Bm、Em 这组和弦由明亮逐渐转向内敛，C 与 D 负责展开和收束。练习先找共同音，再听低音；完整段落与装饰以所选外谱为准。",
+      "rhythm": "6/8 的两个大拍要稳，第一拍低音和第四拍低音稍有重量。慢速下尤其要保留小细分，避免句尾越唱越慢。",
+      "sing": "用自己自然的中低音，不要压喉制造沧桑。句尾的元音自然衰减，但下一口气和下个入口要提前准备。",
+      "meaning": "可以把它听成一次有距离的凝视与无法完全抵达的安慰。不要急着把它简化成单一的悲伤，轻柔的摆动与克制的语气，反而能容纳复杂情感。"
+    },
+    "practice": [
+      "3 分钟听三连摆动",
+      "4 分钟练 Bm 清晰度",
+      "5 分钟六拍分解连四小节",
+      "3 分钟轻唱检查入口"
+    ],
+    "sheet": "assets/sheets/banma.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E5%AE%8B%E5%86%AC%E9%87%8E%20%E6%96%91%E9%A9%AC%E6%96%91%E9%A9%AC%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 20
+  },
+  {
+    "id": "anhe",
+    "title": "安和桥",
+    "artist": "宋冬野",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "D",
+      "Em",
+      "C",
+      "Am"
+    ],
+    "youtube": "GJNOEdQSEeQ",
+    "listenLabel": "宋冬野 · 艺人频道",
+    "scoreUrl": "https://www.jitapai.com/2020235.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "把间奏和主歌分开理解",
+    "analysis": {
+      "listen": "先完整听一遍，特别留意间奏的音色与后段人声进入。标志性的间奏不等于主歌伴奏，独奏谱和弹唱谱也承担不同任务。",
+      "harmony": "先用 G、D、Em、C、Am 建立大调和声词汇。Am→D→G 可以单独用作回归听辨，具体哪一小节用哪个和弦，需对照外部带间奏编配。",
+      "rhythm": "主歌分解音型优先保证低音稳定，高音轻一些。间奏改编单独慢练，不要为了拼旋律把人声伴奏也弹得过满。",
+      "sing": "先说清每句意思，再在稳定大拍上唱。低音区轻声有共鸣即可，不必靠过重的气声制造氛围。",
+      "meaning": "这首歌可以听成对记忆与成长的回望。熟悉的地点和声音让情绪落在具体生活里，弹唱时留出间奏和句间的空间，让回忆有停驻的位置。"
+    },
+    "practice": [
+      "3 分钟区分主歌与间奏",
+      "4 分钟练 Am→D→G",
+      "5 分钟只伴奏一段主歌",
+      "3 分钟录音对比人声与吉他音量"
+    ],
+    "sheet": "assets/sheets/anhe.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E5%AE%8B%E5%86%AC%E9%87%8E%20%E5%AE%89%E5%92%8C%E6%A1%A5%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 21
+  },
+  {
+    "id": "dong",
+    "title": "董小姐",
+    "artist": "宋冬野",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "Em",
+      "F",
+      "G",
+      "Am"
+    ],
+    "youtube": "oBk8k07aAAU",
+    "listenLabel": "宋冬野 · 艺人频道",
+    "scoreUrl": "https://m.jitashe.org/tab/62776/",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "把弹唱当作有节拍的讲述",
+    "analysis": {
+      "listen": "听每句的开头是否总在强拍上，再观察停顿如何制造叙事感。重点是旋律与语言的关系，别让固定分解型把所有句子压成一模一样。",
+      "harmony": "练习 C、Em、F、G、Am 的开放指型，先辨别 C 的稳定与 Em、Am 的柔和。这里是降低难度的和弦词汇练习，原版 E 调编配有更多细节。",
+      "rhythm": "以低音加三个高音的分解起步，换和弦时保持首拍。先允许少弹高音，也不要在难转换的地方整拍停住。",
+      "sing": "像说话一样确定重音，再把旋律放上去。句尾轻收；如果音区太低，可升调，而不是使劲压低嗓子。",
+      "meaning": "它有对一个具体人物的观察，也有叙述者自己的投射。可以用聊天般的语气保留细节，让复杂感情藏在平静表达下，不必每一句都唱成结论。"
+    },
+    "practice": [
+      "3 分钟标记弱起与停顿",
+      "4 分钟练 Em→F",
+      "5 分钟小声弹唱一个完整句群",
+      "3 分钟录音检查停顿是否还在拍里"
+    ],
+    "sheet": "assets/sheets/dong.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E5%AE%8B%E5%86%AC%E9%87%8E%20%E8%91%A3%E5%B0%8F%E5%A7%90%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 22
+  },
+  {
+    "id": "nanshan",
+    "title": "南山南",
+    "artist": "马頔",
+    "category": "华语民谣",
+    "level": 2,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "D",
+      "Em",
+      "Bm",
+      "C",
+      "Am"
+    ],
+    "youtube": "PbCMpo0E6_I",
+    "listenLabel": "马頔 · MV",
+    "scoreUrl": "https://www.jitapai.com/20205.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "和弦连接里的漫长叙述",
+    "analysis": {
+      "listen": "先听段落怎样逐步堆积，再找重复主题何时回来。独奏前奏与弹唱正文先分开练，避免长前奏练熟了却不知道人声从哪里进入。",
+      "harmony": "G–D–Em 与 Bm、C、Am 组成较丰富的调内词汇。主和弦的稳定与小和弦的暗色交替出现，低音连贯比每次大幅换手势更重要。",
+      "rhythm": "先用稀疏的分解，再逐步加经过音。每个装饰都要能回到主拍；如果加入装饰后变慢，就先去掉装饰。",
+      "sing": "长句按意思拆成可呼吸的段落，先念再唱。副歌不必一次撑到原曲音域，先找自然、稳定的演唱调。",
+      "meaning": "距离和时间让故事带着难以抵达的感觉。可以把每个段落当成新的视角，叙述先清楚，情绪再渐渐积累；连续的琶音不应把所有段落抹成一样。"
+    },
+    "practice": [
+      "3 分钟标记段落重复",
+      "4 分钟练 Em→Bm→C",
+      "5 分钟练一段正文的呼吸与低音",
+      "3 分钟录音查句尾速度"
+    ],
+    "sheet": "assets/sheets/nanshan.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E9%A0%94%20%E5%8D%97%E5%B1%B1%E5%8D%97%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 23
+  },
+  {
+    "id": "pingfan",
+    "title": "平凡之路",
+    "artist": "朴树",
+    "category": "华语民谣",
+    "level": 1,
+    "practiceKey": "G",
+    "chords": [
+      "Em",
+      "C",
+      "G",
+      "D"
+    ],
+    "youtube": "ecTSlaNM0Z0",
+    "listenLabel": "朴树 · MV",
+    "scoreUrl": "https://www.jitapai.com/20203337.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "重复的和声，递进的表达",
+    "analysis": {
+      "listen": "先听开头的克制，再听鼓与合唱层次进入后的变化。用同一组和弦练不同力度，就能理解编曲为什么比“多学几个和弦”更重要。",
+      "harmony": "Em–C–G–D 是 G 调指型里从六级出发的练习循环。小调起点带来内省，回到大和弦又打开空间；移调不改变这种关系，但会改变演唱音区。",
+      "rhythm": "先一拍一下，保持四拍脉冲。主歌用轻分解，副歌改为开阔扫弦；两种音型切换时速度不能突然提升。",
+      "sing": "主歌放松讲述，副歌用连贯气流托住长音。先唱稳旋律与拍点，再考虑沙哑或气声等音色处理。",
+      "meaning": "可以从经历起伏后重新面对日常的角度理解它。后段的力量并不需要前段一直激昂，安静的自问与更开阔的释放相互衬托，才让平凡有了分量。"
+    },
+    "practice": [
+      "3 分钟听编曲递进",
+      "4 分钟循环 Em→C→G→D",
+      "5 分钟练分解切扫弦",
+      "3 分钟录副歌并检查长音"
+    ],
+    "sheet": "assets/sheets/pingfan.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E6%9C%B4%E6%A0%91%20%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 24
+  },
+  {
+    "id": "huar",
+    "title": "那些花儿",
+    "artist": "朴树",
+    "category": "华语民谣",
+    "level": 1,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "D",
+      "Em",
+      "C",
+      "Am"
+    ],
+    "youtube": "NxsetGbWCO0",
+    "listenLabel": "朴树 · 授权音频",
+    "scoreUrl": "https://www.jitapai.com/2020459.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "留白让回忆有了距离",
+    "analysis": {
+      "listen": "听人声句与句之间的空间，以及后段编配如何变化。不要急着用指弹填空，先让每段主题的回归清楚可辨。",
+      "harmony": "用 G、D、Em、C、Am 练主属、关系小调与二级的联系。对比 D→G 的直接结束和 Am→D→G 的铺垫，会更容易听出乐句的句号。",
+      "rhythm": "柔和的八分分解足够起步，高音轻、低音清楚。保持余音而不让相邻和弦的低音浑在一起。",
+      "sing": "低音量下练清楚的元音连线，字与字之间保持语意。重复主题可以略作强弱变化，不必加入复杂转音。",
+      "meaning": "“人已经各奔东西，记忆仍在”是进入它的一种听法。别急着用悲伤盖住明亮片段，温柔和遗憾可以并存；句间留白让听者有时间想起自己的人。"
+    },
+    "practice": [
+      "3 分钟听句间留白",
+      "4 分钟练 Am→D→G",
+      "5 分钟分解伴奏加短句",
+      "3 分钟录音检查低音是否混浊"
+    ],
+    "sheet": "assets/sheets/huar.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E6%9C%B4%E6%A0%91%20%E9%82%A3%E4%BA%9B%E8%8A%B1%E5%84%BF%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 25
+  },
+  {
+    "id": "travel",
+    "title": "旅行",
+    "artist": "许巍",
+    "category": "华语民谣",
+    "level": 3,
+    "practiceKey": "D",
+    "chords": [
+      "D",
+      "Em",
+      "G",
+      "A",
+      "Bm",
+      "F#m"
+    ],
+    "youtube": "89hglF1kSig",
+    "listenLabel": "东方卫视 · 官方现场",
+    "scoreUrl": "https://www.jitapai.com/202355097.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "在开阔音色里保持内在节拍",
+    "analysis": {
+      "listen": "先听乐队的空间感与人声长线条，再留意吉他和键盘如何互相让位。单吉他弹唱需要选择重点，不必复制所有乐器层次。",
+      "harmony": "D 调指型的 D、Em、G、A、Bm、F#m 是入口。外部编配还包含大七、挂留与借用和弦；先懂基本功能，再听这些色彩为何让普通和弦更通透。",
+      "rhythm": "从均匀的轻扫开始，让句首清晰、句中流动。保留高音共同音时注意左手别碰到空弦；遇到扩展和弦先逐根检查。",
+      "sing": "长句提前换气，响度增加时不必抬肩或收紧下巴。先降低调性保证整句通顺，再决定是否接近原录音。",
+      "meaning": "可以把远行理解成外部道路，也理解成内心的寻找。空间感与向前的节拍让音乐开阔起来，演唱应保持呼吸和完整长句，不必把开阔感等同于大音量。"
+    },
+    "practice": [
+      "3 分钟听现场乐器分工",
+      "5 分钟练 D→Em 与 Bm→F#m",
+      "4 分钟练轻扫与延音",
+      "3 分钟唱长句并检查换气"
+    ],
+    "sheet": "assets/sheets/travel.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E8%AE%B8%E5%B7%8D%20%E6%97%85%E8%A1%8C%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 26
+  },
+  {
+    "id": "tongnian",
+    "title": "童年",
+    "artist": "罗大佑",
+    "category": "华语民谣",
+    "level": 1,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "Em",
+      "C",
+      "D"
+    ],
+    "youtube": "8OTar5SNpYw",
+    "listenLabel": "罗大佑 · 授权音频",
+    "scoreUrl": "https://www.jitapai.com/2020746.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "轻快靠重音，不靠抢速度",
+    "analysis": {
+      "listen": "跟着原曲拍稳大拍，留意一句话里音节密集的地方。明亮的旋律容易让人越唱越快，所以先听清楚节奏骨架。",
+      "harmony": "G–Em–C–D 是入门的 I–vi–IV–V 练习。调内四和弦可以建立基本方向感，但不同句子的停留时值仍需跟外部谱，不是永远一和弦一小节。",
+      "rhythm": "先用慢速下扫，再加入简单上下扫。右手保持摆动，扫弦触弦轻一些；密集歌词出现时不要跟着增加扫弦次数。",
+      "sing": "把密集字句先念成节奏，找出口语重音。换气留在句群之间，音节清楚比故意唱得很快更重要。",
+      "meaning": "轻快的节奏把许多日常细节串在一起，怀念里也带着当时的好奇与不耐烦。唱出这些不同语气，比把整首处理成一味感伤更接近生活感。"
+    },
+    "practice": [
+      "3 分钟拍手跟原曲",
+      "4 分钟练 G→Em→C→D",
+      "5 分钟慢念歌词节奏后弹唱",
+      "3 分钟录音看速度是否稳定"
+    ],
+    "sheet": "assets/sheets/tongnian.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E7%BD%97%E5%A4%A7%E4%BD%91%20%E7%AB%A5%E5%B9%B4%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 27
+  },
+  {
+    "id": "tongzhuo",
+    "title": "同桌的你",
+    "artist": "老狼",
+    "category": "华语民谣",
+    "level": 1,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "Em",
+      "F",
+      "G",
+      "Am",
+      "Dm"
+    ],
+    "youtube": "FVVqEw5UTUA",
+    "listenLabel": "老狼 · MV",
+    "scoreUrl": "https://www.jitapai.com/20218414.html",
+    "originalScoreUrl": null,
+    "meter": "6/8",
+    "focus": "在六拍里唱出一句话",
+    "analysis": {
+      "listen": "先感受每小节两个大拍的摆动，别把它误听成六次平均敲击。注意人声句尾与下一句之间的呼吸，伴奏仍应保持流动。",
+      "harmony": "C 调练习中的 Em、Am 提供较内敛的色彩，F、Dm、G 帮助走向句尾。学习时把低音变化与人声语句对应起来，完整次序见外谱。",
+      "rhythm": "数“一二三、四五六”，首位弹低音，其余位置轻分解。两个大拍之间保持重量差异，别每一下都扫完整六根弦。",
+      "sing": "先用轻声保持完整句子，再处理长音。思绪感来自轻重与停顿，不需要刻意把每句都放慢。",
+      "meaning": "时间把熟悉的人变成回望的对象。演唱可以像在向对方发问，保留温柔、好奇与一点遗憾；六拍摆动帮助叙述流动，不需要刻意拉慢每个句尾。"
+    },
+    "practice": [
+      "3 分钟跟唱大拍",
+      "4 分钟单和弦练六拍",
+      "5 分钟连接 C→Em 与 Dm→G",
+      "3 分钟录句尾与下句入口"
+    ],
+    "sheet": "assets/sheets/tongzhuo.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E8%80%81%E7%8B%BC%20%E5%90%8C%E6%A1%8C%E7%9A%84%E4%BD%A0%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 28
+  },
+  {
+    "id": "daoxiang",
+    "title": "稻香",
+    "artist": "周杰伦",
+    "category": "华语流行",
+    "level": 2,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "D",
+      "Em",
+      "C"
+    ],
+    "youtube": "sHD_z90ZKV0",
+    "listenLabel": "周杰伦 · 官方 MV",
+    "scoreUrl": "https://www.jitapai.com/202246537.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "把说唱语气放进稳定律动",
+    "analysis": {
+      "listen": "先听自然环境声、吉他与人声如何建立轻松氛围。主歌的语言节奏较密，副歌旋律更展开，两者需要不同的伴奏留白。",
+      "harmony": "G–D–Em–C 提供便于入门的 I–V–vi–IV 指型练习。它帮助学习功能与换位，原曲与所选编配的细节、经过音及段落顺序还需对照。",
+      "rhythm": "先闷弦练八分细分和轻微重音，再加和弦。主歌减少触弦范围，给密集音节让出空间，副歌再扩展开。",
+      "sing": "先把主歌按节奏说清，别靠含糊咬字赶速度。副歌用自然的元音连线，换气选在语意完整处。",
+      "meaning": "可以把它听成重新看见日常与身边人的邀请。口语节奏让表达接近谈心，副歌再打开旋律；保持轻松而清楚的语气，比用力说教更能传达温度。"
+    },
+    "practice": [
+      "3 分钟听主副歌的语言差别",
+      "4 分钟闷弦找重音",
+      "5 分钟慢速主歌一短段",
+      "3 分钟接副歌并保持速度"
+    ],
+    "sheet": "assets/sheets/daoxiang.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%A8%BB%E9%A6%99%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 29
+  },
+  {
+    "id": "qilixiang",
+    "title": "七里香",
+    "artist": "周杰伦",
+    "category": "华语流行",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "Am",
+      "Em",
+      "F",
+      "G",
+      "C"
+    ],
+    "youtube": "Bbp9ZaJD_eA",
+    "listenLabel": "周杰伦 · 官方 MV",
+    "scoreUrl": "https://www.jitapai.com/20203901.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "让旋律从细节走向开阔",
+    "analysis": {
+      "listen": "听前奏的空间声与主歌的叙述，随后比较副歌旋律的伸展。先熟悉段落，再去学前奏或间奏的旋律改编。",
+      "harmony": "练习 Am、Em、F、G、C 的明暗连接，体会小和弦铺垫与 G→C 的落地。谱图中的材料是移调训练，不能据此推断录音室原调或全曲和弦顺序。",
+      "rhythm": "用均匀分解建立流动，再在副歌扩大触弦范围。F 横按不清时先使用四弦小横按，确保每根有效弦都发声。",
+      "sing": "长句把气息分配到最后一个词，弱位保持轻巧。高处先降调练准，别把每个高音都当作需要喊的重点。",
+      "meaning": "感情通过具体景物和细小感受慢慢浮现。主歌可以像在描绘眼前画面，副歌再把情绪伸展开；先让语言有清晰的画面，旋律才不会只剩下甜美的外壳。"
+    },
+    "practice": [
+      "3 分钟听主副歌的宽度",
+      "4 分钟练 Em→F→G",
+      "5 分钟分解转扫弦",
+      "3 分钟录副歌检查咬字和句尾"
+    ],
+    "sheet": "assets/sheets/qilixiang.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E4%B8%83%E9%87%8C%E9%A6%99%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 30
+  },
+  {
+    "id": "gaobai",
+    "title": "告白气球",
+    "artist": "周杰伦",
+    "category": "华语流行",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "G",
+      "Am",
+      "Em",
+      "F",
+      "Dm"
+    ],
+    "youtube": "bu7nU9Mhpyo",
+    "listenLabel": "周杰伦 · 官方 MV",
+    "scoreUrl": "https://www.jitapai.com/202353866.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "轻巧比复杂更接近浪漫",
+    "analysis": {
+      "listen": "先听贝斯与吉他的细小节奏，留意主歌语言的弹性。弹唱版保留轻快与空间即可，不必同时塞入击板、旋律和全部和声。",
+      "harmony": "C 调练习用主属、六级、三级与四级等常见和弦。注意共同音能让转换更顺，完整前奏与一小节内的换位，应按所选外谱单独练习。",
+      "rhythm": "先练轻的八分上下扫，再加入少量闷音。击板是额外层次，节拍没稳之前先不加；声音清楚比动作花哨更重要。",
+      "sing": "先念主歌的口语重音，唱时别把每个音节拉得过长。副歌保持微笑般明亮但放松的语气，避免过度气声。",
+      "meaning": "它的浪漫更接近日常里的轻快靠近。短音、轻重和微小停顿能让语气有亲密感；不必让所有和弦都很厚重，给人声留出轻盈空间更合适。"
+    },
+    "practice": [
+      "3 分钟听节奏细节",
+      "4 分钟练轻扫与空拍",
+      "5 分钟把主歌一句反复弹唱",
+      "3 分钟接副歌检查轻重"
+    ],
+    "sheet": "assets/sheets/gaobai.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%91%8A%E7%99%BD%E6%B0%94%E7%90%83%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 31
+  },
+  {
+    "id": "lucky",
+    "title": "小幸运",
+    "artist": "田馥甄",
+    "category": "华语流行",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "G",
+      "Am",
+      "Em",
+      "F",
+      "Dm"
+    ],
+    "youtube": "YD9r_tTtlaA",
+    "listenLabel": "田馥甄 · 授权音频",
+    "scoreUrl": "https://www.jitapai.com/20201119.html",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "从安静叙述走到情绪释放",
+    "analysis": {
+      "listen": "先比较主歌与副歌的音域和伴奏密度。情绪最高点需要前段克制来衬托，单吉他弹唱也应留出动态余地。",
+      "harmony": "用 C、G、Am、Em、F、Dm 建立大调和声词汇。三级与六级延长柔和感，Dm→G→C 带来回归；谱图是降低难度的训练材料，完整编配见外部谱。",
+      "rhythm": "主歌用轻分解，副歌增加扫弦。先单练变化前后两小节，保证音型切换时不停顿，且下一小节首拍到位。",
+      "sing": "先在舒适调性唱准副歌高处，避免主歌太虚、后段突然挤压。吸气提前，长音用稳定元音延续。",
+      "meaning": "回望会让曾经平常的相遇显得珍贵。演唱可以从平静叙述走向理解与感谢，而不是一开始就唱到情绪顶点；前后动态的余地很重要。"
+    },
+    "practice": [
+      "3 分钟听动态安排",
+      "4 分钟练 Dm→G→C",
+      "5 分钟练主副歌连接",
+      "3 分钟录副歌高音和句尾"
+    ],
+    "sheet": "assets/sheets/lucky.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=%E7%94%B0%E9%A6%A5%E7%94%84%20%E5%B0%8F%E5%B9%B8%E8%BF%90%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 32
+  },
+  {
+    "id": "wonderwall",
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "category": "英语弹唱",
+    "level": 2,
+    "practiceKey": "Em",
+    "chords": [
+      "Em7",
+      "G",
+      "Dsus4",
+      "A7sus4",
+      "Cadd9"
+    ],
+    "youtube": "bx1Bh8ZvH84",
+    "listenLabel": "Oasis · 官方 MV",
+    "scoreUrl": "https://openguitarchords.com/songs/wonderwall-chords",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "共同音把切分和弦粘在一起",
+    "analysis": {
+      "listen": "先听木吉他的切分与持续高音，再听主歌、过渡和副歌如何改变顺序。辨识度并不只在和弦名字，还在停顿、重音和余音。",
+      "harmony": "Em7、G、Dsus4、A7sus4、Cadd9 共享部分高音。挂留与附加音让声音暂不明确结束；先保留这些共同音，再观察低音移动。夹第 2 品可练常见录音音高关系。",
+      "rhythm": "先用闷弦把切分位置练稳，再放进左手。不要每次上下摆动都碰弦；空扫和实际触弦的区别是律动关键。",
+      "sing": "先把英文说顺再加旋律，重音清楚，弱音节短而轻。保持呼吸，不必模仿鼻音或用力挤出粗糙音色。",
+      "meaning": "可以把它听成在犹疑中寻找支撑的表达。和弦持续的高音把不同情绪粘合在一起，节奏的停与走制造张力；不要为了复制音色而丢掉语句的自然重音。"
+    },
+    "practice": [
+      "3 分钟听高音持续与低音移动",
+      "5 分钟练五个和弦共同音",
+      "4 分钟闷弦练空扫",
+      "3 分钟加主歌短句"
+    ],
+    "sheet": "assets/sheets/wonderwall.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Oasis%20Wonderwall%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 33
+  },
+  {
+    "id": "knockin",
+    "title": "Knockin’ on Heaven’s Door",
+    "artist": "Bob Dylan",
+    "category": "英语弹唱",
+    "level": 1,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "D",
+      "Am",
+      "C"
+    ],
+    "youtube": "rm9coqlk8fY",
+    "listenLabel": "Bob Dylan · 官方音频",
+    "scoreUrl": "https://lark.coach/songs/knockin-on-heavens-door",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "简单循环里的问与答",
+    "analysis": {
+      "listen": "听短句的重复与人声停顿，感受伴奏如何回应。先找出两种句尾的差别，再慢慢跟唱；不同艺人翻唱在速度与编排上差异很大。",
+      "harmony": "用 G–D–Am 与 G–D–C 比较二级小和弦和四级大和弦的颜色。两种句尾延长不同情绪，练习时不要把 Am 与 C 随意互换。",
+      "rhythm": "先把 G、D 各弹两拍，句尾和弦留足时值，再按外部谱确认版本。节奏稳后加入轻扫，不需要一开始就弹很多切分。",
+      "sing": "重复的句子用语气和力度区分，而不是一遍比一遍更喊。先哼旋律，再放进英文辅音，长音保持稳定。",
+      "meaning": "重复的短句可以带来疲惫、恳求或释然的不同听感。选定一种语气，再让每次重复有轻微变化，简洁伴奏的作用是托住声音，不是不断填满空间。"
+    },
+    "practice": [
+      "3 分钟听两种句尾",
+      "4 分钟慢练 G→D→Am 与 G→D→C",
+      "5 分钟循环两组交替",
+      "3 分钟加人声保持停顿"
+    ],
+    "sheet": "assets/sheets/knockin.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Bob%20Dylan%20Knockin%E2%80%99%20on%20Heaven%E2%80%99s%20Door%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 34
+  },
+  {
+    "id": "wish",
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "category": "英语弹唱",
+    "level": 3,
+    "practiceKey": "G",
+    "chords": [
+      "Em7",
+      "G",
+      "A7sus4",
+      "C",
+      "D",
+      "Am"
+    ],
+    "youtube": "K6qj09OHvjw",
+    "listenLabel": "Pink Floyd · 官方视频",
+    "scoreUrl": "https://www.jonmaclennan.com/blog/wish-you-were-here-chords",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "把前奏旋律与伴奏分清楚",
+    "analysis": {
+      "listen": "听前奏不同音色的对话，再听歌声进入后伴奏角色怎样变化。先学会唱旋律，再处理吉他装饰，更容易知道哪些音该突出。",
+      "harmony": "Em7、G、A7sus4 构成前奏常用音色词汇，正文再加入 C、D、Am 等和弦。挂留音保留悬念，不能把所有段落都用前奏的三个指型替代。",
+      "rhythm": "先练和弦内的低音与高音分工，再加击弦、勾弦等装饰。装饰只是连线的一部分，做完仍要回到稳定脉冲。",
+      "sing": "保持长句的自然叙述感，先轻声哼准。英文辅音不要打断元音延续，句尾留一点空间给吉他回应。",
+      "meaning": "缺席感与交流愿望可以同时成为它的中心。前奏里的对话与人声之间的留白值得保留，弹唱时像在向一个不在场的人说话，让句子真正走完。"
+    },
+    "practice": [
+      "3 分钟听前奏对话",
+      "5 分钟分别练和弦与旋律角色",
+      "4 分钟慢练共同音连接",
+      "3 分钟唱一段并留出回应空间"
+    ],
+    "sheet": "assets/sheets/wish.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Pink%20Floyd%20Wish%20You%20Were%20Here%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 35
+  },
+  {
+    "id": "horse",
+    "title": "A Horse with No Name",
+    "artist": "America",
+    "category": "英语弹唱",
+    "level": 1,
+    "practiceKey": "Em",
+    "chords": [
+      "Em",
+      "D6add9/F#"
+    ],
+    "youtube": "na47wMFfQCo",
+    "listenLabel": "America · 官方音频",
+    "scoreUrl": "https://www.jonmaclennan.com/blog/horse-with-no-name-guitar-lesson",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "两个指型也可以很有画面",
+    "analysis": {
+      "listen": "先听循环的摇摆与声部叠加。和声变化少，节奏与重复让音乐产生旅程感；练习重点是持续稳定，而不是急着增加和弦。",
+      "harmony": "常见简化是 Em 与 D6add9/F# 两个指型。第二个和弦可用 2x0200，开放高音保持连续，低音从 E 到 F# 的小幅移动改变了重心。不同教材命名可能不同。",
+      "rhythm": "先闷弦练循环的触弦与空扫，再加入两个和弦。左手转换幅度很小，注意不要让高音空弦被碰灭。",
+      "sing": "先把密集句子分成短组，用稳定气息念顺。原曲的合唱音色不必一个人复制，把主旋律唱清楚即可。",
+      "meaning": "单调而持续的循环，可以让人听见一段漫长行走的感受。画面来自节奏、音色和叠加声部，不一定来自复杂和声；练好两个指型的稳定切换，也能建立完整气氛。"
+    },
+    "practice": [
+      "3 分钟只听节奏循环",
+      "4 分钟练 Em 与 2x0200 两个指型",
+      "5 分钟不中断弹八轮",
+      "3 分钟轻唱并保持速度"
+    ],
+    "sheet": "assets/sheets/horse.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=America%20A%20Horse%20with%20No%20Name%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 36
+  },
+  {
+    "id": "hotel",
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "category": "英语弹唱",
+    "level": 3,
+    "practiceKey": "Am",
+    "chords": [
+      "Am",
+      "E7",
+      "G",
+      "D",
+      "F",
+      "C",
+      "Dm",
+      "E7"
+    ],
+    "youtube": "dLl4PZtxia8",
+    "listenLabel": "Eagles · 官方音频",
+    "scoreUrl": "https://www.musiclearning.com/gtr/hotel-california/",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "小调里的大属和弦制造回环",
+    "analysis": {
+      "listen": "先听低音和八和弦轮廓，再区分前奏、主歌与副歌。尾奏独奏是另外的学习任务；先把弹唱和声与乐句掌握，再碰长独奏。",
+      "harmony": "Am–E7–G–D–F–C–Dm–E7 是便于练习的移调骨架。E7 的 G# 把耳朵强烈拉回 Am，D 大和弦带来区别于纯自然小调的色彩；听清这些变化比死背八个名字更有用。",
+      "rhythm": "先每和弦一小节，四拍低音加分解。困难点是长循环记忆和 F 的清晰度；在慢速下把八小节弹完，比只会前四小节更重要。",
+      "sing": "先确定长句的呼吸，不必追求录音里同样高的音区。保持语气和拍点，副歌开始前给自己留出吸气空间。",
+      "meaning": "可以从表面吸引与逐渐加深的不安来听这首歌。八和弦回环不断把人带回起点，明暗交替维持悬念；先稳住长循环，才有余地表现故事感。"
+    },
+    "practice": [
+      "3 分钟听八和弦循环",
+      "5 分钟练 Am→E7 与 D→F",
+      "4 分钟连八小节不中断",
+      "3 分钟唱短段落检查呼吸"
+    ],
+    "sheet": "assets/sheets/hotel.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Eagles%20Hotel%20California%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 37
+  },
+  {
+    "id": "country",
+    "title": "Take Me Home, Country Roads",
+    "artist": "John Denver",
+    "category": "英语弹唱",
+    "level": 1,
+    "practiceKey": "G",
+    "chords": [
+      "G",
+      "Em",
+      "D",
+      "C"
+    ],
+    "youtube": "1vrEljMfXYo",
+    "listenLabel": "John Denver · 官方音频",
+    "scoreUrl": "https://openguitarchords.com/songs/country-roads-chords",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "根音交替带出乡村步伐",
+    "analysis": {
+      "listen": "先听每小节的低音支点和扫弦回应，再观察主歌、副歌与桥段的区别。跟唱副歌很容易，但桥段需要另记入口和顺序。",
+      "harmony": "G、Em、D、C 是便于入门的移调词汇。I 与 vi 建立明暗，IV 与 V 推动回归；桥段还有不同走向，不应把四和弦循环当作整曲顺序。",
+      "rhythm": "用“低音、轻扫、低音、轻扫”练四拍支点。先只弹根音，熟悉后再考虑交替低音，避免低音弦选择错误而浑浊。",
+      "sing": "英文重音落在有意义的词上，弱音节轻带过。副歌长音保持稳定，不要每次重复都无意识升高音量。",
+      "meaning": "归属感可以来自一个地方，也可以来自熟悉的人与记忆。乡村式低音给人行走的支点，副歌像共同的呼唤；唱清楚方向和词重音，比用很大音量更有感染力。"
+    },
+    "practice": [
+      "3 分钟听低音与扫弦分工",
+      "4 分钟练根音加轻扫",
+      "5 分钟练副歌与桥段入口",
+      "3 分钟录一段检查词重音"
+    ],
+    "sheet": "assets/sheets/country.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=John%20Denver%20Take%20Me%20Home%2C%20Country%20Roads%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 38
+  },
+  {
+    "id": "hallelujah",
+    "title": "Hallelujah",
+    "artist": "Leonard Cohen",
+    "category": "英语弹唱",
+    "level": 2,
+    "practiceKey": "C",
+    "chords": [
+      "C",
+      "Am",
+      "F",
+      "G",
+      "E"
+    ],
+    "youtube": "ttEMYvpoR-k",
+    "listenLabel": "Leonard Cohen · 官方音频",
+    "scoreUrl": "https://openguitarchords.com/songs/hallelujah-chords",
+    "originalScoreUrl": null,
+    "meter": "6/8",
+    "focus": "和声张力和句子一起呼吸",
+    "analysis": {
+      "listen": "先听 Cohen 版本的叙述语气与合唱色彩，再比较你熟悉的翻唱。不同版本的伴奏和速度差别很大，先选一个版本建立乐句感。",
+      "harmony": "C、Am、F、G、E 构成重要练习词汇。E 大和弦带有 G#，会指向 Am，和 C 大调常规的 Em 有不同张力；试着对比 E→Am 与 Em→Am。",
+      "rhythm": "用两个大拍的六拍分解起步，先让低音与歌声的长音协调。段落有时一小节换两次和弦，不能一律按整小节处理。",
+      "sing": "先以说话语气唱清，重复处逐次改变轻重与留白。不要把每个长音都做成炫技转音，先让句子完整。",
+      "meaning": "它能容纳赞叹、脆弱与矛盾，不必预设为单纯的庆祝或悲伤。重复词句可以有不同语气，和声中的张力也在提醒听者：平静并不意味着情绪简单。"
+    },
+    "practice": [
+      "3 分钟听原唱句法",
+      "4 分钟比较 E→Am 与 Em→Am",
+      "5 分钟练六拍分解和换位",
+      "3 分钟轻唱完整句群"
+    ],
+    "sheet": "assets/sheets/hallelujah.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Leonard%20Cohen%20Hallelujah%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 39
+  },
+  {
+    "id": "riptide",
+    "title": "Riptide",
+    "artist": "Vance Joy",
+    "category": "英语弹唱",
+    "level": 2,
+    "practiceKey": "Am",
+    "chords": [
+      "Am",
+      "G",
+      "C"
+    ],
+    "youtube": "uJ_1HMAGb4k",
+    "listenLabel": "Vance Joy · 官方 MV",
+    "scoreUrl": "https://openguitarchords.com/songs/riptide-chords",
+    "originalScoreUrl": null,
+    "meter": "4/4",
+    "focus": "三和弦不难，弹唱同步才是关键",
+    "analysis": {
+      "listen": "先听原录音轻快的拨弦音色与人声切分。改到六弦吉他时需要调整触弦范围，别把小型拨弦乐器的轻盈感弹成厚重六弦扫奏。",
+      "harmony": "Am、G、C 是主要的简易指型词汇，通常 C 的停留长于前两个和弦。桥段有变化；练习把时值说清楚，比只背“Am–G–C”更重要。",
+      "rhythm": "先练 Am 两拍、G 两拍、C 四拍的简化两小节循环，再按外部编配微调。空扫不断线，让右手自动运行，再叠加人声。",
+      "sing": "密集英文先慢念，分清弱起与主拍。先用一个音说节奏，再唱完整旋律，避免唱到快句时左手突然停住。",
+      "meaning": "明亮的伴奏与带跳跃感的叙述形成鲜明个性。先保留语言的灵活与切分，再考虑声音的热闹程度；轻盈来自节拍稳定后的自由，不是随意加速。"
+    },
+    "practice": [
+      "3 分钟听人声的弱起",
+      "4 分钟练两小节和弦时值",
+      "5 分钟闷弦同时念节奏",
+      "3 分钟弹唱一短句并录音"
+    ],
+    "sheet": "assets/sheets/riptide.png",
+    "bilibili": "https://search.bilibili.com/all?keyword=Vance%20Joy%20Riptide%20%E5%8E%9F%E5%94%B1",
+    "sourceChecked": "2026-11-15",
+    "scope": "本页采用便于练习的和弦指型；谱图是原创伴奏练习，不是原版完整曲谱。录音与外部编配可能有转调、经过和弦和节奏变化。",
+    "number": 40
+  }
+]

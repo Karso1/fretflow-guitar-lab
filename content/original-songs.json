@@ -1,0 +1,292 @@
+[
+  {
+    "id": "letitbe",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "prog": "1564",
+    "key": "C",
+    "shapes": "C · G · Am · F",
+    "section": "主歌前半段 / 开头",
+    "note": "典型1564片段，但后面会使用其他和弦，不是全曲四和弦循环。",
+    "parts": [
+      [
+        "主歌开头（练习）",
+        "C – G – Am – F"
+      ],
+      [
+        "后续走向（部分版本）",
+        "C – G – F – Em – Dm – C"
+      ]
+    ],
+    "url": "https://openguitarchords.com/zh/songs/let-it-be-chords"
+  },
+  {
+    "id": "withorwithout",
+    "title": "With or Without You",
+    "artist": "U2",
+    "prog": "1564",
+    "key": "D",
+    "shapes": "D · A · Bm · G",
+    "section": "贯穿歌曲的主要循环",
+    "note": "经典I–V–vi–IV；可先每小节1和弦。",
+    "parts": [
+      [
+        "主要循环",
+        "D – A – Bm – G"
+      ]
+    ],
+    "url": "https://www.guitartabs.cc/tabs/u/u2/with_or_without_you_crd.html"
+  },
+  {
+    "id": "im_yours",
+    "title": "I'm Yours",
+    "artist": "Jason Mraz",
+    "prog": "1564",
+    "key": "B",
+    "shapes": "B · F# · G#m · E",
+    "section": "主歌 / 副歌的主要骨架",
+    "note": "原调B；可夹4品使用G–D–Em–C指型。桥段有其他和弦。",
+    "parts": [
+      [
+        "主歌和副歌主要走向",
+        "B – F# – G#m – E"
+      ],
+      [
+        "吉他简易指型 · capo 4",
+        "G – D – Em – C"
+      ]
+    ],
+    "url": "https://openguitarchords.com/songs/im-yours-chords"
+  },
+  {
+    "id": "someone",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "prog": "1564",
+    "key": "A",
+    "shapes": "A · E · F#m · D",
+    "section": "副歌（主歌另有变化）",
+    "note": "副歌适合1564；主歌的A–C#m–F#m–D是1364，不能把整首说成1564。",
+    "parts": [
+      [
+        "主歌基础和声",
+        "A – C#m – F#m – D"
+      ],
+      [
+        "副歌基础和声",
+        "A – E – F#m – D"
+      ],
+      [
+        "便捷指型 · capo 2（副歌）",
+        "G – D – Em – C"
+      ]
+    ],
+    "url": "https://openguitarchords.com/songs/someone-like-you-chords"
+  },
+  {
+    "id": "duo",
+    "title": "朵",
+    "artist": "赵雷",
+    "prog": "1564",
+    "key": "F",
+    "shapes": "F · C · Dm · Bb（部分段落）",
+    "section": "主歌常见156片段 / 副歌部分1564",
+    "note": "参考C指型、变调夹5品的编配，实际为F调。主歌多为C–G–Am，副歌加入F、G等变化，并非整首严格1564。也有其他版本，优先对照你手上的谱。",
+    "parts": [
+      [
+        "主歌部分（capo 5指型）",
+        "C – G – Am"
+      ],
+      [
+        "副歌部分典型走向（capo 5指型）",
+        "C – G – Am – F"
+      ],
+      [
+        "实际发声音阶体系",
+        "F大调；旋律与和弦均升5半音"
+      ]
+    ],
+    "url": "https://www.jitapai.com/202659166.html"
+  },
+  {
+    "id": "standbyme",
+    "title": "Stand by Me",
+    "artist": "Ben E. King",
+    "prog": "1645",
+    "key": "A",
+    "shapes": "A · F#m · D · E",
+    "section": "主要循环（时值可能重复）",
+    "note": "经典1645。原版常将I、vi保持更长，建议留意每个和弦的小节数。",
+    "parts": [
+      [
+        "和弦骨架",
+        "A – F#m – D – E"
+      ],
+      [
+        "8小节练习",
+        "A | A | F#m | F#m | D | E | A | A"
+      ],
+      [
+        "便捷指型 · capo 2",
+        "G – Em – C – D"
+      ]
+    ],
+    "url": "https://openguitarchords.com/songs/stand-by-me-chords"
+  },
+  {
+    "id": "heartandsoul",
+    "title": "Heart and Soul",
+    "artist": "Hoagy Carmichael",
+    "prog": "1625",
+    "key": "F",
+    "shapes": "F · Dm7 · Gm7 · C7",
+    "section": "主旋律段的1625形式",
+    "note": "原版主段的基本逻辑为I–vi–ii–V，并常使用七和弦；它与1645类似，但ii不能直接混同IV。",
+    "parts": [
+      [
+        "主段常见形式",
+        "F – Dm7 – Gm7 – C7"
+      ],
+      [
+        "C调1625基础练习（非原曲原调）",
+        "C – Am – Dm – G"
+      ]
+    ],
+    "url": "https://www.chordlines.com/hoagy-carmichael/heart-and-soul"
+  },
+  {
+    "id": "perfect",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "prog": "1645",
+    "key": "Ab",
+    "shapes": "Ab · Fm · Db · Eb",
+    "section": "主歌基础走向；副歌从vi起",
+    "note": "常用capo 1：按G–Em–C–D。原曲有复合拍节奏；简化四拍循环仅用于练和弦顺序。",
+    "parts": [
+      [
+        "主歌（capo 1指型）",
+        "G – Em – C – D"
+      ],
+      [
+        "副歌常见段落",
+        "Em – C – G – D"
+      ],
+      [
+        "实际发声",
+        "Ab – Fm – Db – Eb"
+      ]
+    ],
+    "url": "https://openguitarchords.com/zh/songs/perfect-chords"
+  },
+  {
+    "id": "zombie",
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "prog": "6415",
+    "key": "Em",
+    "shapes": "Em · C · G · D",
+    "section": "主要和弦循环",
+    "note": "它经常被归在G大调相对视角的vi–IV–I–V，但歌曲通常以E小调听感为中心。",
+    "parts": [
+      [
+        "简化练习循环",
+        "Em – C – G – D"
+      ]
+    ],
+    "url": "https://openguitarchords.com/songs/zombie-chords"
+  },
+  {
+    "id": "despacito",
+    "title": "Despacito",
+    "artist": "Luis Fonsi / Daddy Yankee",
+    "prog": "6415",
+    "key": "Bm",
+    "shapes": "Bm · G · D · A",
+    "section": "主要循环",
+    "note": "歌曲以B小调为中心，换成D大调相对视角是vi–IV–I–V。",
+    "parts": [
+      [
+        "常见主要循环",
+        "Bm – G – D – A"
+      ]
+    ],
+    "url": "https://chordshift.app/songs/despacito-luis-fonsi"
+  },
+  {
+    "id": "autumn",
+    "title": "Autumn Leaves",
+    "artist": "Jazz standard",
+    "prog": "251",
+    "key": "G / Em",
+    "shapes": "Am7 · D7 · Gmaj7",
+    "section": "若干段落中的大调ii–V–I",
+    "note": "进阶项目。与基本三和弦251不同，爵士通常采用7和弦，曲中也有小调ii–V–i。",
+    "parts": [
+      [
+        "G大调 ii–V–I 示例",
+        "Am7 – D7 – Gmaj7"
+      ],
+      [
+        "示例：C大调 ii–V–I",
+        "Dm7 – G7 – Cmaj7"
+      ]
+    ],
+    "url": "https://www.jazzguitar.be/blog/autumn-leaves-easy-jazz-guitar-chords"
+  },
+  {
+    "id": "canon",
+    "title": "Canon in D（卡农）",
+    "artist": "Johann Pachelbel",
+    "prog": "15634145",
+    "key": "D",
+    "shapes": "D · A · Bm · F#m · G · D · G · A",
+    "section": "经典和声骨架",
+    "note": "巴洛克经典和声循环；你可以直接在本站用D大调练习。",
+    "parts": [
+      [
+        "D大调简化伴奏骨架",
+        "D – A – Bm – F#m – G – D – G – A"
+      ]
+    ],
+    "url": "https://jgmusiclessons.com/canon-in-d-chords-and-guitar-arrangement-with-tabs/"
+  },
+  {
+    "id": "counting",
+    "title": "Counting Stars",
+    "artist": "OneRepublic",
+    "prog": "6154",
+    "key": "C#m",
+    "shapes": "C#m · E · B · A",
+    "section": "主要循环（capo 4用Am指型）",
+    "note": "录音中心是C#小调；变调夹4品可以按Am–C–G–F。变调后在E大调相对视角中是vi–I–V–IV。",
+    "parts": [
+      [
+        "capo 4的吉他指型",
+        "Am – C – G – F"
+      ],
+      [
+        "实际发声",
+        "C#m – E – B – A"
+      ]
+    ],
+    "url": "https://www.guitartabs.cc/tabs/o/onerepublic/counting_stars_crd.html"
+  },
+  {
+    "id": "qing",
+    "title": "晴天（部分变体）",
+    "artist": "周杰伦",
+    "prog": "4536251",
+    "key": "版本不一",
+    "shapes": "F · G · Em · Am · Dm · G · C（练习公式）",
+    "section": "用于练习华语抒情公式",
+    "note": "仅作为这一类和声走向的练习线索；不同版本和段落可能不严格按4536251，完整和弦须以外部谱为准。",
+    "parts": [
+      [
+        "C大调4536251练习公式（非原曲逐小节谱）",
+        "F – G – Em – Am – Dm – G – C"
+      ]
+    ],
+    "url": "https://www.ultimate-guitar.com/search.php?search=%E6%99%B4%E5%A4%A9%20%E5%91%A8%E6%9D%B0%E4%BC%A6&type=300"
+  }
+]

@@ -1,10 +1,11 @@
-# FretFlow GitHub Pages
+# Deployment
 
-- Website: https://karso1.github.io/fretflow-guitar-lab/
-- Source: `index.html`
-- Published from: `main` branch, repository root
-- Original file: `FretFlow_Guitar_Lab_20261115.html`
+GitHub Pages serves this repository's `main` branch at the repository root. `.nojekyll` keeps static assets untouched.
 
-The original HTML is published without changing its application code. Update `index.html` on `main` to publish future changes. `.nojekyll` enables plain static file hosting.
+URL: https://karso1.github.io/fretflow-guitar-lab/
 
-Practice progress and personal songs stay in the current browser's local storage. They do not synchronize across devices or migrate automatically from a downloaded HTML file to this website.
+Publish `index.html`, `app.js`, `songs.js`, `style.css`, `detail.css`, `lab.html`, `lab.css`, `assets/`, and `vendor/` together. A Git tree / commit update publishes an internally consistent revision.
+
+The content sources and generators are included under `content/` and `tools/`. Screenshots, generated visual directions, local test data and development notes are kept outside the published tree.
+
+Browser-local uploads, favorites and notes are private to the browser origin. No credentials or user-uploaded score files are committed. The previous `fretflow_state`, `fretflow_notes` and training task keys continue to be used by the preserved learning tools.
